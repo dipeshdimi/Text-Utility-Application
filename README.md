@@ -30,7 +30,7 @@ The Text Utility Web App is built with a responsive design using Bootstrap 5. Th
 
 To get started with the Text Utility Web App, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/text-utility-app.git`
+1. Clone the repository: `git clone https://github.com/dipeshdimi/Text-Utility-Application.git`
 2. Install dependencies: `npm install`
 3. Start the development server: `npm start`
 4. Open your browser and navigate to `http://localhost:3000`
