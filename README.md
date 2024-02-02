@@ -2,22 +2,25 @@
 
 Welcome to the Text Utility Web App! This web application is built using React.js and comes with a range of text utility features to enhance your text processing experience.
 
+<img src="https://github.com/dipeshdimi/Text-Utility-Application/assets/82582216/3d7ecaac-99a5-4c5b-99a3-f7a5cb9482f9" width=49%> <img src="https://github.com/dipeshdimi/Text-Utility-Application/assets/82582216/b8987476-27a3-4969-a332-a1a312f1af78" width=49%> 
+
+
 ## Features
 
-### Dark Mode
-Dark Mode functionality to enrich user interaction and reduce eye strain. This feature is integrated into the UI using Bootstrap 5.
+- ### Dark Mode
+  Dark Mode functionality to enrich user interaction and reduce eye strain. This feature is integrated into the UI using Bootstrap 5.
 
-### Text Utility Features
-- **Uppercase Conversion:** Convert text to uppercase.
-- **Lowercase Conversion:** Convert text to lowercase.
-- **Remove Extra Spaces:** Remove additional spaces from the text.
-- **Text Reversal:** Reverse the order of characters in the text.
-- **Copy to Clipboard:** Copy the processed text to the clipboard.
-- **Clear Text:** Clear the input area to start afresh.
-- **Read Aloud:** Enable voice dictation to have the text read aloud.
+- ### Text Utility Features
+  - **Uppercase Conversion:** Convert text to uppercase.
+  - **Lowercase Conversion:** Convert text to lowercase.
+  - **Remove Extra Spaces:** Remove additional spaces from the text.
+  - **Text Reversal:** Reverse the order of characters in the text.
+  - **Copy to Clipboard:** Copy the processed text to the clipboard.
+  - **Clear Text:** Clear the input area to start afresh.
+  - **Read Aloud:** Enable voice dictation to have the text read aloud.
 
-### Responsive Design
-The Text Utility Web App is built with a responsive design using Bootstrap 5. This ensures a seamless and consistent user experience across various devices and screen sizes.
+- ### Responsive Design
+  The Text Utility Web App is built with a responsive design using Bootstrap 5. This ensures a seamless and consistent user experience across various devices and screen sizes.
 
 ## Technologies Used
 
